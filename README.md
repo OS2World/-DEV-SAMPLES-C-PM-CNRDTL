@@ -1,5 +1,7 @@
-# -DEV-SAMPLES-C-PM-CNRDTL
+# DEV-SAMPLES-C-PM-CNRDTL
 Sample program to demonstrate container detail view.
+
+![CNRDTL ScreenShot](/wiki/CNRDTL_001.png)
 
 LICENSE
 ===============
@@ -11,6 +13,7 @@ COMPILE TOOLS
  
 AUTHORS
 ===============
+* Martin Iturbide (2023)
 * Rick Fishman
 * Guy Scharf
 
