@@ -49,17 +49,17 @@ typedef struct
 
 STATEREC statedata[] =
 {
-    {"Alabama",     "Montgomery",   3893888, {12, 14, 1819}},
-    {"Alaska",      "Juneau",        401851, { 1,  3, 1959}},
-    {"Arizona",     "Phoenix",      2718425, { 2,  4, 1912}},
-    {"Arkansas",    "Little Rock",  2286435, { 6, 15, 1836}},
-    {"California",  "Sacramento",  23667565, { 9,  9, 1850}},
-    {"Colorado",    "Denver",       2889735, { 8,  1, 1876}},
-    {"Connecticut", "Hartford",     3107576, { 1,  9, 1788}},
-    {"Delaware",    "Dover",         594317, {12,  7, 1787}},
-    {"Florida",     "Tallahassee",  9746342, { 3,  3, 1845}},
-    {"Georgia",     "Atlanta",      5463105, { 1,  2, 1788}},
-    {"Hawaii",      "Honolulu",      964691, { 8, 21, 1959}}
+    {(PSZ)"Alabama",     (PSZ)"Montgomery",   3893888, {12, 14, 1819}},
+    {(PSZ)"Alaska",      (PSZ)"Juneau",        401851, { 1,  3, 1959}},
+    {(PSZ)"Arizona",     (PSZ)"Phoenix",      2718425, { 2,  4, 1912}},
+    {(PSZ)"Arkansas",    (PSZ)"Little Rock",  2286435, { 6, 15, 1836}},
+    {(PSZ)"California",  (PSZ)"Sacramento",  23667565, { 9,  9, 1850}},
+    {(PSZ)"Colorado",    (PSZ)"Denver",       2889735, { 8,  1, 1876}},
+    {(PSZ)"Connecticut", (PSZ)"Hartford",     3107576, { 1,  9, 1788}},
+    {(PSZ)"Delaware",    (PSZ)"Dover",         594317, {12,  7, 1787}},
+    {(PSZ)"Florida",     (PSZ)"Tallahassee",  9746342, { 3,  3, 1845}},
+    {(PSZ)"Georgia",     (PSZ)"Atlanta",      5463105, { 1,  2, 1788}},
+    {(PSZ)"Hawaii",      (PSZ)"Honolulu",      964691, { 8, 21, 1959}}
 };
 
 typedef struct                          // Container data record
