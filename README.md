@@ -1,5 +1,7 @@
-# -DEV-SAMPLES-C-PM-CNRDTL
+# DEV-SAMPLES-C-PM-CNRDTL
 Sample program to demonstrate container detail view.
+
+![CNRDTL ScreenShot](/wiki/CNRDTL_001.png)
 
 LICENSE
 ===============
